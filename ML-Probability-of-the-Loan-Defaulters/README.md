@@ -10,7 +10,7 @@ The snapshot of the data you will be working on:
 !!![container width="100%" align="center"]
 ![Data Set Snap](undefined/account/b16/6a1f0c95-2915-474c-917f-dc711cc8d89b/b936/816a1c5b-ec9a-423e-a194-2520fef0eef2/file.png)
 !!![container-end]
-
+![Getting Started](C:/Users/ckatkaa/Downloads/bk.PNG)
 
 
 
